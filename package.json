@@ -1,0 +1,24 @@
+{
+  "name": "simpleconcel",
+  "version": "1.0.0",
+  "description": "Simple concel extend module",
+  "main": "mainApp.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "NodeJs"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "tutorial"
+  ],
+  "author": "npm19 <lama.m.ghool@gmail.com>",
+  "license": "ISC"
+}
